@@ -44,7 +44,7 @@ On repl.it you may need to run `npm install node && npm install && npm run build
 
 [![Run on Repl.it](https://repl.it/badge/github/sleroq/nhentai-telegram-bot)](https://repl.it/github/sleroq/nhentai-telegram-bot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sleroq/nhentai-telegram-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nchuuya/nhentai)
 
 ## Development progress:
 
